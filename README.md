@@ -39,3 +39,13 @@ The dataset contains observations from 1,275 U.S. counties and includes:
 - Regression Analysis
 - Public Health Analytics
 - Data Visualization
+  
+## Results
+
+Best Model: Negative Binomial Regression
+
+Key Predictors:
+- Population Density
+- Income Level
+- Education
+- Demographic Factors
